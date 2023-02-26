@@ -1,0 +1,55 @@
+.App {
+    text-align: center;
+    background-color: rgb(3, 215, 235);
+    text-shadow: 2px 2px rgba(255, 0, 0, 0.719) , -1px -1px yellow;
+    height: 50px;
+    font-family:cursive ;
+  }#sign
+  {
+    font-size: 30px;
+    border: 2px solid black;
+    background-color: rgb(252, 187, 107);
+    height: 45px;
+  }
+  .formc{
+    background-color: white;
+    border: 10px solid rgb(15, 9, 9);
+    border-style: double;
+    border-radius: 15px;
+    width:500px;
+    height: 535px;
+    position: absolute;
+    top:15%;
+    left: 33%;
+  }
+  hr
+  {
+    position: relative;
+    left:-335px;
+    width: 499px;
+    top:-60px; 
+  }
+  #btn
+  {
+    font-size:large;
+    position: relative;
+    left:-180px;
+    top:-60px; 
+    height: 45px;
+    width: 190px;
+  }
+  #btn:hover 
+  {
+    color: red;
+    background-color: rgb(53, 240, 53);
+    /* background-image: linear-gradient(79deg,#ff00fa, #0ef03f 48%, #ff7723) */
+  }
+  .clrc{
+    background-color:rgb(242, 8, 8);
+    border-radius: 5px;
+  }
+  .subc
+  {
+    position: relative;
+    top:17%;
+  }

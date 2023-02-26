@@ -1,0 +1,143 @@
+.App {
+    text-align: center;
+    /* background-image: linear-gradient(79deg,#f74df4, #C66FBC 48%, #f78137); */
+    /* background-color: rgb(176, 171, 171); */
+    background-color: rgb(3, 215, 235);
+    text-shadow: 2px 2px rgba(255, 0, 0, 0.719) , -1px -1px yellow;
+    height: 50px;
+    font-family:cursive ;
+  }
+  .signform{
+    background-color: white;
+    /* background-image: linear-gradient(79deg,#724df7, #dc7de4 48%, #ecad53); */
+    border: 10px solid rgb(15, 9, 9);
+    border-style: double;
+    border-radius: 15px;
+    width:500px;
+    height: 585px;
+    position: absolute;
+    top:15%;
+    left: 33%;
+  }
+  .news
+  {
+    position: relative;
+    left: 8%;
+    top:8%;
+    /* background-color: blue; */
+    width: 200px;
+  }
+  #sign
+  {
+    font-size: 30px;
+    border: 2px solid black;
+    background-color: rgb(252, 187, 107);
+    height: 45px;
+  }
+  label
+  {
+    font-weight: bolder;
+    position: relative;
+    top:-10px;
+  }
+  .email
+  {
+    position: relative;
+    font-size:20px;
+    left: 7%;
+  }
+  .name
+  {
+    position: relative;
+    left: 7%;
+    font-size:20px;
+    top:5%;
+  }
+  .pass1
+  {
+    position: relative;
+    left: 7%;
+    font-size:20px;
+    top:10%;
+  }
+  .cbk1
+  {
+    display: flex;
+    align-items: center;
+    /* background-color: blue; */
+    /* padding-top: 10px; */
+    position: relative;
+    left: 7%;
+    top:7%;
+    width: 180px;
+  }
+  .custom-control-label1 
+  {
+    position: relative;
+    top:11%;
+  }
+  .custom-control-label2
+  {
+    position: relative;
+    top:11%;
+  }
+  .pass2
+  {
+    position: relative;
+    left: 7%;
+    font-size:20px;
+    top:15%;
+  }
+  .cbk2
+  {
+    display: flex;
+    align-items: center;
+    /* background-color: blue;s */
+    /* padding-top: 10px; */
+    position: relative;
+    left: 7%;
+    top:10%;
+    width: 180px;
+  }
+  .custom-control-label2
+  {
+    position: relative;
+    top:18%;
+  }
+  #in1,#in2,#in3,#in4
+  {
+    margin-top: 2px;
+    width: 85%;
+    height: 35px;
+  }
+  .clr{
+    background-color:rgb(97, 97, 244);
+    border-radius: 5px;
+  }
+  button:hover {background-color: #19d920}
+  #ssub
+  {
+    font-size:large;
+    position: relative;
+    left: 74%;
+    top:17%;
+    height: 35px;
+    width: 97px;
+    /* background-color: blueviolet; */
+  }
+  .subs:hover
+  {
+    color: white;
+    background-color: #19d920;
+  }
+  #links
+  {
+    position: relative;
+    left: 60%;
+    top:-37px;
+    /* background-color: #19d920; */
+    width: 40px;
+    color: blue;
+    cursor: pointer;
+  }
+  #links:hover {color: red}
